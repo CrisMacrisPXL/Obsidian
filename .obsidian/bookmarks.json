@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1790322304412,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1790506005021,
+          "path": "methodologieën.md",
+          "title": "methodologieën"
+        }
+      ],
+      "title": "ProjectManagement"
+    },
+    {
+      "type": "group",
+      "ctime": 1790326960373,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1790506012930,
+          "path": "Requirements.md",
+          "title": "Requirements"
+        }
+      ],
+      "title": "Software Analyse"
+    },
+    {
+      "type": "group",
+      "ctime": 1791022135683,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1791022389839,
+          "path": "DotNet Advanced/DotNet Advanced Week 1.md",
+          "title": "DotNet Advanced Week 1"
+        }
+      ],
+      "title": "DotNet Advanced"
+    }
+  ]
+}
